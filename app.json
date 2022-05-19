@@ -6,11 +6,11 @@
   " env " : {
     " BOT_TOKEN " : {
       " description " : " @BotFather'dan bir bot jetonu. " ,
-      " gerekli " : doğru
+      " gerekli " : 
     },
     " MONGO_URI " : {
       " description " : " Bir MongoDB URI'si. " ,
-      " gerekli " : doğru
+      " gerekli " : 
     }
   },
   " yapı paketleri " : [
