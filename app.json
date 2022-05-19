@@ -8,10 +8,6 @@
       "description": "Bir bot belirteci @BotFather.",
       "required": true
     },
-        "SUDO_USERS": {
-            "description": "Kullanıcı id vs kimlik nosu.",
-            "required": true
-    },
     "MONGO_URI": {
       "description": "Bir MongoDB URL.",
       "required": true
