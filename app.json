@@ -4,13 +4,17 @@
   " anahtar kelimeler " : [ " telgraf " , " piton " ],
   " depo " : " https://github.com/EkimozSupport/kelme " ,
   " env " : {
-    " BOT_TOKEN " : {
-      " description " : " @BotFather'dan bir bot jetonu. " ,
-      " gerekli " : 
+    " BOT_TOKEN": {
+      "description": "Bir bot belirteci @BotFather.",
+      "required": true
     },
-    " MONGO_URI " : {
-      " description " : " Bir MongoDB URI'si. " ,
-      " gerekli " : 
+        "SUDO_USERS": {
+            "description": "Kullanıcı id vs kimlik nosu.",
+            "required": true
+    },
+    "MONGO_URI": {
+      "description": "Bir MongoDB URL.",
+      "required": true
     }
   },
   " yapı paketleri " : [
