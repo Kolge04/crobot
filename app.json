@@ -4,12 +4,12 @@
   " anahtar kelimeler " : [ " telgraf " , " piton " ],
   " depo " : " https://github.com/KarabakhTag/crobot " ,
   " env " : {
-    " BOT_TOKEN": {
+    " BOT_TOKEN": "5567161282:AAFjdH8KdpI-HwY7Wv-XVDq1rNYMNKjfOds"
       "description": "Bir bot belirteci @BotFather.",
       "required": true
     },
-    "MONGO_URI": {
-      "description": "Bir MongoDB URL.",
+    "MONGO_URI": "mongodb+srv://karabakhmongo:<20032003@rt2>@cluster0.3n73ief.mongodb.net/?retryWrites=true&w=majority"
+      "description": "BirMongoDB URL.",
       "required": true
     }
   },
