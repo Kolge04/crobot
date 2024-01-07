@@ -1,21 +1,21 @@
 {
-  " name " : " Timsah Oyunu " ,
-  " description " : " Telegram kelime tabanlı bir oyun botu. " ,
-  " anahtar kelimeler " : [ " telgraf " , " piton " ],
-  " depo " : " https://github.com/KarabakhTag/crobot " ,
-  " env " : {
-    " BOT_TOKEN": "5567161282:AAFjdH8KdpI-HwY7Wv-XVDq1rNYMNKjfOds"
-      "description": "Bir bot belirteci @BotFather.",
-      "required": true
+  "name": "Tg Eğlence Bot",
+  "description": "Pyrogram İle Yazılmış Bir Eğlence Botu",
+  "repository": "https://github.com/AkinYoungSoftware/TgEglenceBot.git",
+  "logo": "https://telegramchannels.me/storage/media-logo/2001/dcgamebot.jpg",
+  "keywords": ["telegram", "game", "pyrogram","telegram bot"],
+  "env": {
+     "BOT_TOKEN": {
+      "description": "@Botfather Den Oluşturduğunuz Botun Apisi"
     },
-    "MONGO_URI": "mongodb+srv://karabakhmongo:<20032003@rt2>@cluster0.3n73ief.mongodb.net/?retryWrites=true&w=majority"
-      "description": "BirMongoDB URL.",
-      "required": true
-    
-  },
-  " yapı paketleri " : [
+    "MONGO_URI": {
+      "description": "API_ID'niz https://my.telegram.org/apps dan ala bilirsiniz"
+    }
+   
+   },
+   "buildpacks": [
     {
-      " url " : " heroku/python "
+      "url": "heroku/python"
     }
   ]
 }
