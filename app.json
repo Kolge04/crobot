@@ -11,7 +11,7 @@
     "MONGO_URI": "mongodb+srv://karabakhmongo:<20032003@rt2>@cluster0.3n73ief.mongodb.net/?retryWrites=true&w=majority"
       "description": "BirMongoDB URL.",
       "required": true
-    }
+    
   },
   " yapı paketleri " : [
     {
