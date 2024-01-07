@@ -8,5 +8,5 @@ Bu bot söz oyunu botudur və AZƏRBAYCANDA ilk botdur! Telegramda vaxtınızı 
 
 
 
-[![TELEGRAM](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://t.me/sesizKOLGE)
+[![TELEGRAM](https://www.telegram.com/deploy/button.svg)](https://heroku.com/deploy?template=https://t.me/sesizKOLGE)
 
