@@ -5,3 +5,8 @@ Bu bot söz oyunu botudur və AZƏRBAYCANDA ilk botdur! Telegramda vaxtınızı 
 - Project link: https://github.com/play2pay/croco-az
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kolge04/crobot)
+
+
+
+[![TELEGRAM](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://t.me/sesizKOLGE)
+
